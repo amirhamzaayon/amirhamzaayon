@@ -81,8 +81,8 @@
 ###
 
 <div align="left">
+  <img src="https://streak-stats.demolab.com?user=amirhamzaayon&locale=en&mode=weekly&theme=github-dark-blue&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhamzaayon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=amirhamzaayon&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhamzaayon&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="260" alt="activity-graph graph"  />
 </div>
 
