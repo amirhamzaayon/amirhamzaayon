@@ -7,8 +7,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/amirhamzaayon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -80,9 +81,8 @@
 ###
 
 <div align="left">
- 
-  <img src="https://streak-stats.demolab.com?user=amirhamzaayon&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3&ring=64D2FF&fire=FF7F4B&stroke=43C2FF&dates=4BBFFF" height="150"  alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhamzaayon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=amirhamzaayon&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhamzaayon&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="260" alt="activity-graph graph"  />
 </div>
 
