@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">⏹️ Core Tech Stack</h2>
+<h1 align="left">⏹️ Core Tech Stack</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">⏹️ Design & Dev Tools</h2>
+<h1 align="left">⏹️ Design & Dev Tools</h2>
 
 ###
 
@@ -76,14 +76,22 @@
 
 ###
 
-<h2 align="left">⏹️ GitHub Statistics</h2>
+<h1 align="left">⏹️ GitHub Statistics</h2>
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=amirhamzaayon&locale=en&mode=weekly&theme=github-dark-blue&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhamzaayon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhamzaayon&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="260" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=amirhamzaayon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  /> -->
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhamzaayon&locale=en&hide_title=false&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=4" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=amirhamzaayon&locale=en&mode=weekly&theme=github-dark-blue&hide_border=true&border_radius=5&order=2" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhamzaayon&radius=16&theme=github-dark&area=true&order=3&hide_border=true&hide_title=true" height="260" alt="activity-graph graph"  />
 </div>
 
-###
+
+
+
+
+
+
+
