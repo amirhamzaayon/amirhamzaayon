@@ -6,13 +6,13 @@
 
 ###
 
-  [![Portfolio](https://img.shields.io/badge/-♾️Portfolio-white?&logo=globe&logoColor=black)](YOUR_PORTFOLIO_URL)
-  [![LinkedIn](https://img.shields.io/badge/-⌀※⁂⁜°⌂↗↪▢▣◯■◻■□LinkedIn-0077B5?&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
+  [![Portfolio](https://img.shields.io/badge/-♾️Portfolio-white?&logo=globe&logoColor=black)](https://amir-hamza-ayon.super.site/)
+  [![LinkedIn](https://img.shields.io/badge/-◻️LinkedIn-00a6ed?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhamzaayon/)
+  [![Gmail](https://img.shields.io/badge/-Gmail-ff6242?&logo=gmail&logoColor=white)](mailto:amirhamzaayon.official@gmail.com)
+  
 ###
 
-<h1 align="left">⏹️ Core Tech Stack</h2>
+<h2 align="left">⏹️ Core Tech Stack</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h1 align="left">⏹️ Design & Dev Tools</h2>
+<h2 align="left">⏹️ Design & Dev Tools</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h1 align="left">⏹️ GitHub Statistics</h2>
+<h2 align="left">⏹️ GitHub Statistics</h2>
 
 ###
 
