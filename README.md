@@ -7,7 +7,7 @@
 ###
 
   [![Portfolio](https://img.shields.io/badge/-🌐Portfolio-white?&logo=globe&logoColor=black)](https://amir-hamza-ayon.super.site/)
-  [![LinkedIn](https://img.shields.io/badge/-⏹LinkedIn-00a6ed?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhamzaayon/)
+  [![LinkedIn](https://img.shields.io/badge/-◻️LinkedIn-00a6ed?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhamzaayon/)
   <!--  [![Gmail](https://img.shields.io/badge/-Gmail-ff6242?&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=amirhamzaayon.official@gmail.com) -->
   
 ###
